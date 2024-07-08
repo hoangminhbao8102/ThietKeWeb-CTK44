@@ -12,8 +12,8 @@ Trường: Đại học Đà Lạt<br>
 (Chiều thứ Tư (trừ 2 ngày 20 và 27/10/2021) và Sáng thứ Sáu (trừ 3 ngày 22/10/2021, 29/10/2021 và 19/11/2021) hàng tuần)<br>
 <br>
 Hoc kì I - Năm 2 (2021 - 2022)<br>
-<strong>Giáo viên giảng dạy:</strong> CN. Lê Gia Công<br>
-<strong>Giáo viên hướng dẫn thực hành:</strong> ThS. Trần Thị Phương Linh<br>
+<strong>Giáo viên giảng dạy:</strong> Thầy CN. Lê Gia Công<br>
+<strong>Giáo viên hướng dẫn thực hành:</strong> Cô ThS. Trần Thị Phương Linh<br>
 <br>
 Link Github: <a href="https://github.com/hoangminhbao8102/ThietKeWeb-CTK44">hoangminhbao8102/ThietKeWeb-CTK44</a><br>
 <h1 style="color:red;">ĐÃ HOÀN THÀNH</h1>
